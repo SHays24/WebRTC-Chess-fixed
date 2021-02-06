@@ -1,5 +1,5 @@
 //Create your free key at peerJS.com -- don't obuse mine!
-PEERJS_API_KEY = '8l3d9im0wleuerk9'
+PEERJS_API_KEY = ''
 
 //Присваиваем каждой фигуре свой код
 var WHITE_KING = 100,
